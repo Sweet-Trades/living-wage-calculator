@@ -45,7 +45,7 @@ Custom calculations will also be optional for users who may want to include fact
 ## Defining "living wage"
 
 * Basic Needs: The MIT Living Wage Calculator estimates a living wage for a single person in Orlando with no children to be around $46,645 before taxes. This covers basic necessities like groceries, a modest apartment, healthcare, and transportation.
-* Comfortable Living: A recent study suggests a higher threshold for living comfortably in Orlando. That study says a single person would need to make $67,740 after taxes to afford a comfortable lifestyle which includes some flexibility for spending beyond basic needs.
+* Comfortable Living: A single person would need to make $67,740 after taxes to afford a comfortable lifestyle which includes some flexibility for spending beyond basic needs.
 
 ## Other factors to consider:
 
