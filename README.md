@@ -40,18 +40,16 @@ This project gathers information on what a living wage should be for individuals
 * [Union County, Florida](https://livingwage.mit.edu/counties/12125)
 * [Volusia County, Florida](https://livingwage.mit.edu/counties/12127)
 
-
-The MIT resources above should be used to formulate a survey for users of sweettrades.org
-
+Custom calculations will also be optional for users who may want to include factors not taken into account on the [MIT Living Wage Benchmark](https://drive.google.com/file/d/1l9a3Q_w5UZXdRNjgPIKT9V5nSA53oZ5_/view).
 
 ## Defining "living wage"
 
-* Basic Needs: The MIT Living Wage Calculator estimates a living wage for a single person in Orlando with no children to be around $46,645 before taxes [1]. This covers basic necessities like groceries, a modest apartment, healthcare, and transportation.
-* Comfortable Living: A recent study suggests a higher threshold for living comfortably in Orlando. That study says a single person would need to make $67,740 after taxes to afford a comfortable lifestyle which includes some flexibility for spending beyond basic needs [2].
+* Basic Needs: The MIT Living Wage Calculator estimates a living wage for a single person in Orlando with no children to be around $46,645 before taxes. This covers basic necessities like groceries, a modest apartment, healthcare, and transportation.
+* Comfortable Living: A recent study suggests a higher threshold for living comfortably in Orlando. That study says a single person would need to make $67,740 after taxes to afford a comfortable lifestyle which includes some flexibility for spending beyond basic needs.
 
 ## Other factors to consider:
 
-* Family Size: The cost of living increases significantly with a family. MIT’s calculator can help estimate the living wage for different family sizes [5].
+* Family Size: The cost of living increases significantly with a family. MIT’s calculator can help estimate the living wage for different family size.
 * Debt: If you have student loans or other debts, you’ll need to factor those into your budget.
 * Lifestyle: Your definition of “comfortable” may vary. If you enjoy eating out or going to theme parks often, you'll need to make more than the base living wage.
 
