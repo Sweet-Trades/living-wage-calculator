@@ -1,9 +1,12 @@
-# data-project
+# Sweet Trades Living Wage Calculator
 
-## This data project gathers information on what a living wage should be for individuals living in Orlando, FL in an effort to help determine what career path an individual mentee should take on sweettrades.org. Below are the resources currently being gathered:
+This project gathers information on what a living wage should be for individuals living in Central Florida in an effort to help determine what career path an individual mentee should take on [sweettrades.org](https://sweettrades.org/). Below are the MIT living wage calculations that will be utilized as responses to data coming in from users to determine what a living wage should be by county:
 
-* [MIT Living Wage Calculator, Florida](https://livingwage.mit.edu/states/12)
-* [MIT Living Wage Calculator, Orange County, Florida](https://livingwage.mit.edu/counties/12095)
+* [Orange County, Florida](https://livingwage.mit.edu/counties/12095)
+* [Osceola County, Florida](https://livingwage.mit.edu/counties/12097)
+* [Hernando County, Florida](https://livingwage.mit.edu/counties/12053)
+* [Pinellas County, Florida](https://livingwage.mit.edu/counties/12103)
+
 
 The MIT resources above should be used to formulate a survey for users of sweettrades.org
 
